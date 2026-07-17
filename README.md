@@ -15,4 +15,4 @@ It unifies notes, code repositories, and tasks into a single intelligent platfor
 - `requirements.md` – Functional and non-functional system requirements
 - `design.md` – System architecture, data models, APIs, and algorithms
 
-Submitted as part of the [Hackathon Name].
+
